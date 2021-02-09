@@ -20,4 +20,6 @@ Example: "Nintendo switch" -collector -controller -lite -giochi -gioco
 4) Wait for BEEP notification
 
 
+The script already return a single array with the items found for easy manipulation and further development of the concept
+
 TBD: email notifications, multiple queries, a GUI that also displays images
