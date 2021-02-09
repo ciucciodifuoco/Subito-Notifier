@@ -11,7 +11,9 @@ USAGE
 Example: "Nintendo switch" -collector -controller -lite -giochi -gioco
 
 
-2) Copy the resulting URL from your browser to the script when asked
+2) Copy the resulting URL from your browser and run the script
+
+~# python SubitoNotifier.py
 
 3) Set an interval on how often the script should search for new items
 
